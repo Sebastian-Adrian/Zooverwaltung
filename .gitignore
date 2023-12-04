@@ -1,0 +1,4 @@
+# Project exclude paths
+/lib/
+/out/
+/.idea/
